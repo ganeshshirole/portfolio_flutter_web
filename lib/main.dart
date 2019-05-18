@@ -56,8 +56,7 @@ class MyHomePage extends StatelessWidget {
                       style: TextStyle(
                           fontSize: 14,
                           color: Colors.blue,
-                          fontFamily: 'Montserrat',
-                          fontWeight: FontWeight.w400),
+                          fontFamily: 'Montserrat'),
                     ),
                     SizedBox(
                       height: 24,
@@ -97,7 +96,6 @@ class MyHomePage extends StatelessWidget {
                         style: TextStyle(
                             color: Colors.blue,
                             fontSize: 14,
-                            fontWeight: FontWeight.w400,
                             fontFamily: 'Montserrat'),
                       ),
                       borderSide: BorderSide(

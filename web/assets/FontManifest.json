@@ -1,8 +1,7 @@
 [{
     "family": "Montserrat",
     "fonts": [{
-            "asset": "fonts/Montserrat-Regular.otf",
-            "weight": 400
+            "asset": "fonts/Montserrat-Regular.otf"
         },
         {
             "asset": "fonts/Montserrat-Medium.otf",
