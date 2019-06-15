@@ -1,0 +1,19 @@
+[{
+    "family": "Montserrat",
+    "fonts": [{
+            "asset": "fonts/Montserrat-Regular.otf"
+        },
+        {
+            "asset": "fonts/Montserrat-Medium.otf",
+            "weight": 500
+        },
+        {
+            "asset": "fonts/Montserrat-SemiBold.otf",
+            "weight": 600
+        },
+        {
+            "asset": "fonts/Montserrat-Bold.otf",
+            "weight": 700
+        }
+    ]
+}]
